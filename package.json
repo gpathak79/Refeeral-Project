@@ -1,0 +1,27 @@
+{
+  "name": "referalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "date-holidays": "^1.6.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment-holiday": "^1.5.1",
+    "mongoose": "^5.10.5",
+    "month-day": "^0.1.1",
+    "multer": "^1.4.2",
+    "passport": "^0.4.1",
+    "passport-http": "^0.3.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.2"
+  }
+}
